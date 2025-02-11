@@ -3,7 +3,7 @@
 
 Please find the instructions for workshop 05 at:
 
-https://github.com/My-UofE/ECM1410-Workshop05-Instructions/blob/main/README.md
+https://github.com/My-UofE/ECM1410-Workshop-05-Instructions/blob/main/README.md
 
 Your work will be tested and the resulting grade will form 7.5% of your module grade.
 
